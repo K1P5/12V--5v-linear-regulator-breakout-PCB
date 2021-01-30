@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-01-22T21:10:30Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "5V LINEAR REGULATOR BREAKOUT V00"
+        },
+        "Owner": "Kirill Psarev <brickhead179@gmail.com>",
+        "Size": {
+            "X": 12.243,
+            "Y": 25.39
+        }
+    }
+}
